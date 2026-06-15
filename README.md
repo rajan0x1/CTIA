@@ -1,1 +1,1 @@
-It's all about CTIA eccouncil
+It's all about CTIA V2 eccouncil
