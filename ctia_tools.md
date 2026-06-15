@@ -6,7 +6,7 @@
 - MISP
 - OpenCTI
 - ThreatConnect
-- Anomali
+- Anomali TreatStream
 
 ### Purpose
 - Collect threat intelligence
